@@ -1,0 +1,1 @@
+This is a simple page of html showing sticky nav bar and footer.
